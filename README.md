@@ -1,2 +1,2 @@
 # coffeestore
-random projs :3
+random projects go here
